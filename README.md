@@ -21,4 +21,4 @@
 
 <br>
 
-#### No momento estou desenvolvendo minhas habilidades em Python e pretendo me aprofundar em JavaScript! 🤓
+#### No momento estou desenvolvendo minhs habilidades em Python e pretendo me aprofundar em JavaScript! 🤓
