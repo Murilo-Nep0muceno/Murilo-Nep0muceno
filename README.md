@@ -7,7 +7,7 @@
 ![Murilo GitHub stats](https://github-readme-stats.vercel.app/api?username=Murilo-Nep0muceno&show_icons=true&theme=dracula)
 
 ### Tecnologias usadas
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrosouz6&layout=compact)](https://github.com/pedrosouz6/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Murilo-Nep0muceno&layout=compact)](https://github.com/pedrosouz6/github-readme-stats)
 
 ##
 
