@@ -1,7 +1,7 @@
 # Olá! Eu sou o Murilo 😁
 
 ### Meu Linkedin 👇
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](link=https://www.linkedin.com/in/murilo-nepomuceno-829912235/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/murilo-nepomuceno-829912235/)
 
 
 
