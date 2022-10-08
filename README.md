@@ -1,7 +1,8 @@
 # Olá! Eu sou o Murilo 😁
 
 ### Meu Linkedin 👇
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](link="https://www.linkedin.com/in/murilo-nepomuceno-829912235/")
+[![Linkedin] <a src="https://www.linkedin.com/in/murilo-nepomuceno-829912235/">(https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)(link="")
+</a>
 
 
 ![Murilo GitHub stats](https://github-readme-stats.vercel.app/api?username=Murilo-Nep0muceno&show_icons=true&theme=dracula)
