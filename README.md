@@ -22,4 +22,4 @@
 
 <br>
 
-#### No momento estou desenvolvendo minhas habilidades em Javascript e pretendo me aprofundar em React! 🤓
+#### No momento estou desenvolvendo minhas habilidades em Java e pretendo me aprofundar em Spring Boot! 🤔👌
