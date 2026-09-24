@@ -5,6 +5,6 @@ Tenho base em desenvolvimento web (Java/Spring Boot) e estou direcionando meus e
 
 **Estudando agora:** Python · SQL · AWS
 
-**Já usei em projetos:** Java · Spring Boot · MySQL · JavaScript · HTML/CSS · Git
+**Já usei em projetos:** Java · Spring Boot · MySQL · JavaScript · HTML/CSS · Git · NodeJs · ReactJs
 
 📫 [LinkedIn](https://www.linkedin.com/in/murilo-nepomuceno-829912235/) · murilonep@gmail.com
